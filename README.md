@@ -1,5 +1,11 @@
 # 💫 About Me:
-🙋🏻‍♂️Hi, I’m Aman Kumar<br>🧑🏻‍💻I have good knowledge of the Android SDK and its various tools, as well as experience with programming languages such as Java and Kotlin. As an Android developer, I enjoy creating innovative, user-friendly applications that can help solve real-world problems.<br>🤖I am a creative person with a keen eye for design and a passion for exploring new ideas. I enjoy experimenting with different technologies and techniques to create unique and visually appealing applications.<br>📚Currently I'm learning React Native to build apps that work seamlessly across different platforms. Excited to broaden my skills and create versatile solutions for various devices. <br>
+🙋🏻‍♂️ Hi, I’m Aman Kumar
+<br>🧑 I am a Mobile Application Developer primarily working with React Native for cross-platform development, and I also have hands-on experience in native Android development using Java and Kotlin. I enjoy building scalable, user-friendly applications that solve real-world problems.<br>
+🏛️ I have worked on multiple government projects, contributing to production-level mobile applications with real users and real impact.<br>
+🎥 I was also a freelance video content creator at GeeksforGeeks, where I taught Android App Development, helping learners understand concepts from basics to practical implementation.<br>
+🤖 I am a creative person with a keen eye for design and a passion for exploring new ideas. I like experimenting with different technologies and tools to create clean, efficient, and visually appealing applications.<br>
+📚 I am always eager to learn new technologies, improve my skills, and build versatile solutions that work seamlessly across multiple platforms.<br>
+
 
 
 ## 🌐 Socials:
@@ -15,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aman1953&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
