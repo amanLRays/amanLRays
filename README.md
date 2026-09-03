@@ -41,7 +41,7 @@ const aman = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,js,ts,html,css,git,github,firebase,figma,nodejs,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,js,ts,dart,html,css,git,github,firebase,figma,nodejs,postman&theme=dark" />
 </p>
 
 <br>
@@ -49,17 +49,9 @@ const aman = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman1953&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1953&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1953&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman1953&no-frame=true&column=7&margin-w=8&theme=matrix" />
-</p>
 
 <br>
 
