@@ -1,7 +1,6 @@
 <!-- ================== HEADER BANNER ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3B23,100:00FF41&height=200&section=header&text=Hi%20There,%20I%20am%20Aman%20Kumar&fontSize=36&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20-%20React%20Native%20%26%20Android&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
-</p>
+<h1 align="center">Hi There, I'm Aman Kumar</h1>
+<h3 align="center">Mobile App Developer &nbsp;•&nbsp; React Native &nbsp;•&nbsp; Android (Java/Kotlin)</h3>
 
 <!-- ================== TYPING SVG ================== -->
 <p align="center">
@@ -49,9 +48,8 @@ const aman = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1953&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanLRays&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak stats"/>
 </p>
-
 
 <br>
 
