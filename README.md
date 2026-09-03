@@ -1,6 +1,6 @@
 <!-- ================== HEADER BANNER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3B23,100:00FF41&height=220&section=header&text=Hi%20There,%20I'm%20Aman%20Kumar%20%3C%2F%3E&fontSize=36&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20|%20React%20Native%20•%20Android%20(Java/Kotlin)&descAlignY=55&descSize=17&descColor=C9D1D9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3B23,100:00FF41&height=200&section=header&text=Hi%20There,%20I%20am%20Aman%20Kumar&fontSize=36&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20-%20React%20Native%20%26%20Android&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 </p>
 
 <!-- ================== TYPING SVG ================== -->
