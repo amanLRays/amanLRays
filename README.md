@@ -21,7 +21,7 @@
 const aman = {
   role: "Mobile Application Developer",
   languages: ["JavaScript", "TypeScript", "Java", "Kotlin"],
-  frameworks: ["React Native", "Android SDK", "Node.js"],
+  frameworks: ["React Native", "Next.js", "Android SDK", "Node.js"],
   shipped: "Production apps for government projects 🏛️",
   taught: "Android dev to thousands @GeeksforGeeks 🎥",
   focus: "Clean, scalable, cross-platform apps",
@@ -47,7 +47,7 @@ const aman = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,js,ts,dart,nodejs,firebase,git,github,figma,postman,html,css&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,androidstudio,java,kotlin,js,ts,dart,nodejs,firebase,git,github,figma,postman,html,css&theme=dark&perline=8" />
 </p>
 
 <br>
